@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xkiD-coder
+- 👀 I’m interested in discord.js
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on bots
+- 📫 Reach me on discord :- !xkiD#6654
